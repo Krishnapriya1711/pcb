@@ -10,7 +10,7 @@ The design emphasizes modularity, flexibility, and ease of integration, allowing
 ## Key Features
 - Plug-and-play controller based on Teensy 4.1
 - Header pin slots for easy actuator and sensor connections
-- Supports robotic arm and mobile chassis control
+- Supports robotic arm, science module and chassis control
 - Modular and reusable hardware design
 - Power regulation and distribution for control electronics
 - Designed using KiCad
