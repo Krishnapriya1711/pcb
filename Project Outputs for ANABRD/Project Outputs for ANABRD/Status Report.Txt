@@ -1,0 +1,37 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:07:24 On 13-01-2026
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [ANABRD_V1RA.PcbDoc]
+   Generated File[ANABRD_V1RA.GTO]
+   Generated File[ANABRD_V1RA.GTP]
+   Generated File[ANABRD_V1RA.GTS]
+   Generated File[ANABRD_V1RA.GTL]
+   Generated File[ANABRD_V1RA.GBL]
+   Generated File[ANABRD_V1RA.GBS]
+   Generated File[ANABRD_V1RA.GBP]
+   Generated File[ANABRD_V1RA.GBO]
+   Generated File[ANABRD_V1RA.GM1]
+   Generated File[ANABRD_V1RA.GM4]
+   Generated File[ANABRD_V1RA.GM5]
+   Generated File[ANABRD_V1RA.GM13]
+   Generated File[ANABRD_V1RA.GM15]
+   Generated File[ANABRD_V1RA.GM16]
+   Generated File[ANABRD_V1RA.GM20]
+   Generated File[ANABRD_V1RA.GM21]
+   Generated File[ANABRD_V1RA.GM23]
+   Generated File[ANABRD_V1RA.GM24]
+   Generated File[ANABRD_V1RA.GKO]
+   Generated File[ANABRD_V1RA.GD1]
+   Generated File[ANABRD_V1RA.GG1]
+   Generated File[ANABRD_V1RA.GM]
+   Generated File[ANABRD_V1RA.EXTREP]
+   Generated File[ANABRD_V1RA.REP]
+
+
+Files Generated   : 24
+Documents Printed : 0
+
+Finished Output Generation At 15:07:30 On 13-01-2026
